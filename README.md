@@ -1,5 +1,7 @@
 # DASHBOARD APOTEK / `PHARMACY DASHBOARD`
 
+![Github Created At](https://img.shields.io/github/created-at/MuhammadBobby/apotek_kimia_farma) ![GitHub last commit](https://img.shields.io/github/last-commit/MuhammadBobby/apotek_kimia_farma) ![GitHub language count](https://img.shields.io/github/languages/count/MuhammadBobby/apotek_kimia_farma) ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/MuhammadBobby/apotek_kimia_farma)
+
 This `pharmacy website` is a website created as a website that aims to manage the management of incoming and outgoing goods at a pharmacy that can be used by the admin and owner.
 
 ## 📸 Screenshots
