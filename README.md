@@ -20,7 +20,7 @@ This `pharmacy website` is a website created as a website that aims to manage th
 
 Clone the project into a local server like XAMPP or Laragon
 
-```bash
+```console
   git clone https://github.com/MuhammadBobby/apotek_kimia_farma.git
 ```
 
@@ -32,7 +32,7 @@ Go to the project directory
 
 Open code in IDE like Visual Studio Code
 
-```bash
+```console
   code .
 ```
 
