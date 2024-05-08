@@ -1,19 +1,67 @@
-Berikut untuk link untuk web yang telah di hosting :
+# DASHBOARD APOTEK / `PHARMACY DASHBOARD`
+
+This `pharmacy website` is a website created as a website that aims to manage the management of incoming and outgoing goods at a pharmacy that can be used by the admin and owner.
+
+## 📸 Screenshots
+
+![App Screenshot](assets/img/ss.png)
+
+## ✨ Features
+
+- Log-In & Sign-In Session
+- CRUD table
+- Interactive Dashboard
+- Tables and related data
+- pharmacy resource management
+
+## ✅ Run Locally
+
+Clone the project into a local server like XAMPP or Laragon
+
+```bash
+  git clone https://github.com/MuhammadBobby/apotek_kimia_farma.git
+```
+
+Go to the project directory
+
+```console
+  cd apotek_kimia_farma
+```
+
+Open code in IDE like Visual Studio Code
+
+```bash
+  code .
+```
+
+install database `apotek.sql` into local server with name :
+
+```bash
+  apotek
+```
+
+Don't forget start the server 🚀
+
+## Demo
+
 https://kimia-farma-fake.000webhostapp.com/
 
-<!-- Username dan Password -->
+## Username and Password Default
 
-Username : ADM101
-password : bobby30
+Open Demo Web Dashboard and Log in to the dashboard with the following username and password:
 
-<!-- penjelasan tambahan untuk username dan password -->
+🖋 Username : `ADM101`
 
-untuk username dan password menggunakan id_karyawan dan kode_unik
-dari tabel KARYAWAN yang ada di database
-Note : untuk karyawan uyang bisa masuk hanya ketika berstatus 'owner' dan 'admin'
-untuk karyawan dengan status 'karyawan' tidak diizinkan masuk
+📜 Password : `bobby30`
 
-\*Untuk menambahkannya bisa melalui tambah data yang ada di table karyawan melalui web,
-karena jika melalui databse langsung kode_unik tidak akan di hash terlebih dahulu
+## 🔗 Links
 
-~Muhammad Bobby, 2023
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://muhammadbobby.github.io/portfolio-muhammad-bobby/)
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-bobby-oktaviano-1190482ba/)
+
+[![Instagram](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/code.lab_indonesia?igsh=cGs2aGxpYm9sZGw0)
+
+## Authors
+
+- [Muhammad Bobby](https://github.com/MuhammadBobby)
